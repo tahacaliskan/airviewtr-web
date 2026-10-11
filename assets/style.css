@@ -347,3 +347,19 @@ fieldset.fld{border:0}
   .scards,.mgrid,.boxes{grid-template-columns:1fr}
   .founder{padding:18px}
 }
+
+/* logo strip (marquee) */
+.lstrip{border-block:1px solid var(--line);background:var(--card);overflow:hidden;padding:22px 0;position:relative}
+.lstrip::before,.lstrip::after{content:"";position:absolute;top:0;bottom:0;width:90px;z-index:1;pointer-events:none}
+.lstrip::before{left:0;background:linear-gradient(90deg,var(--card),transparent)}
+.lstrip::after{right:0;background:linear-gradient(-90deg,var(--card),transparent)}
+.lstrip .track{display:flex;width:max-content;animation:lmq 42s linear infinite}
+.lstrip:hover .track{animation-play-state:paused}
+.lstrip .set{display:flex;align-items:center;gap:64px;padding-right:64px}
+.lstrip img{height:42px;width:auto;max-width:150px;object-fit:contain;transition:transform .4s var(--ease)}
+.lstrip img:hover{transform:scale(1.06)}
+.lstrip .dk{background:#1F2A44;border-radius:8px;padding:5px 8px}
+.lstrip .tx{font-weight:800;font-stretch:112%;font-size:18px;color:var(--mute);white-space:nowrap}
+@keyframes lmq{to{transform:translateX(-50%)}}
+@media (max-width:640px){.lstrip img{height:32px}.lstrip .set{gap:40px;padding-right:40px}}
+@media (prefers-reduced-motion:reduce){.lstrip .track{animation:none}}

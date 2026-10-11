@@ -296,3 +296,54 @@ fieldset.fld{border:0}
 .hero .btn-line:hover{background:var(--on-dark);color:var(--ink)}
 .logos .lg{min-width:0}
 .logos .lg img{max-width:100%;height:auto}
+
+/* service cards (hizmetler) */
+.scards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.scard{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;scroll-margin-top:96px;transition:transform .5s var(--ease),box-shadow .5s var(--ease)}
+.scard:hover{transform:translateY(-4px);box-shadow:0 26px 50px -30px rgba(13,13,11,.45)}
+.scard .sm{position:relative;aspect-ratio:4/3;background:var(--dark-2);overflow:hidden}
+.scard .sm video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.scard .sn{position:absolute;left:12px;top:12px;font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:5px 9px;border-radius:6px;background:rgba(13,13,11,.62);color:#fff}
+.scard .sb{padding:22px 22px 24px;display:flex;flex-direction:column;gap:10px;flex:1;position:relative}
+.scard .si,.mcard .si{width:48px;height:48px;border-radius:12px;display:grid;place-items:center;font-size:24px;background:var(--rec);color:#fff}
+.scard .si{position:absolute;right:20px;top:-24px;box-shadow:0 10px 24px -10px rgba(255,84,54,.7)}
+.scard h3{font-size:23px;font-stretch:110%;letter-spacing:-.02em;line-height:1.1;padding-right:56px}
+.scard p{color:var(--mute);font-size:15px}
+.chips{list-style:none;display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
+.chips li{font-size:13px;font-weight:600;padding:6px 10px;border-radius:999px;background:var(--paper-2);color:var(--ink-2)}
+.scard .sf{margin-top:auto;padding-top:12px;display:flex;justify-content:space-between;align-items:center;gap:10px;border-top:1px solid var(--line)}
+.scard .sf .link{font-size:14px}
+/* mini service cards (ana sayfa) */
+.mgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.mcard{position:relative;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:26px 24px 28px;display:grid;gap:10px;align-content:start;transition:border-color .3s,transform .5s var(--ease),box-shadow .5s var(--ease)}
+.mcard:hover{border-color:var(--ink);transform:translateY(-3px);box-shadow:0 20px 40px -28px rgba(13,13,11,.4)}
+.mcard .n{position:absolute;right:22px;top:24px;font-family:var(--mono);font-size:12px;color:var(--fog)}
+.mcard h3{font-size:22px;font-stretch:110%;letter-spacing:-.02em;margin-top:8px}
+.mcard p{color:var(--mute);font-size:15px}
+.mcard .go{position:absolute;right:20px;bottom:20px;font-size:20px;color:var(--fog);transition:color .3s,transform .4s var(--ease)}
+.mcard:hover .go{color:var(--rec);transform:translate(2px,-2px)}
+/* format boxes */
+.boxes{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px}
+.box h3{font-size:20px;font-stretch:110%;margin:18px 0 6px}
+.box p{color:var(--mute);font-size:15px}
+.fmt{display:grid;place-items:center;height:64px;width:64px}
+.fmt::before{content:"";display:block;border:2.5px solid var(--ink);border-radius:6px}
+.fmt.v::before{width:30px;height:54px}.fmt.h::before{width:60px;height:34px}.fmt.s::before{width:42px;height:52px;box-shadow:16px 10px 0 -2.5px var(--paper),16px 10px 0 0 var(--rec)}
+.fmt.t::before{display:none}.fmt.t i{font-size:40px;color:var(--rec)}
+/* founder */
+.founder{display:grid;grid-template-columns:320px 1fr;gap:48px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px}
+.founder>img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:14px}
+.flogos{display:flex;align-items:center;gap:16px;margin-top:20px;flex-wrap:wrap}
+.flogos img{height:24px;width:auto;max-width:none;aspect-ratio:auto}
+.flogos span{font-family:var(--mono);color:var(--fog)}
+@media (max-width:1060px){
+  .scards,.mgrid{grid-template-columns:1fr 1fr}
+  .boxes{grid-template-columns:1fr 1fr}
+  .founder{grid-template-columns:1fr;gap:24px}
+  .founder>img{max-width:340px}
+}
+@media (max-width:640px){
+  .scards,.mgrid,.boxes{grid-template-columns:1fr}
+  .founder{padding:18px}
+}

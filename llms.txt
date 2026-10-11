@@ -1,10 +1,10 @@
 # AirviewTR
 
-> AirviewTR, Gaziantep merkezli bir video prodüksiyon stüdyosudur: drone çekimi, fabrika ve kurumsal tanıtım filmi, inşaat ve gayrimenkul lansman filmleri, ürün ve reklam filmleri, sosyal medya içerikleri. Sloganı: "Tek kurgu. Her açı." Kurucusu Taha Çalışkan (lisanslı İHA pilotu); Taha Çalışkan, AirviewTR ve Calisqa Software'in ortak kurucusudur.
+> AirviewTR, Gaziantep merkezli bir video prodüksiyon stüdyosudur: drone çekimi, fabrika ve kurumsal tanıtım filmi, inşaat ve gayrimenkul lansman filmleri, ürün ve reklam filmleri, sosyal medya içerikleri. Sloganı: "Tek kurgu. Her açı." Kurucusu Taha Çalışkan'dır (lisanslı İHA pilotu). Taha Çalışkan, AirviewTR ve Calisqa Software'in kurucusudur.
 
 ## İletişim
 - WhatsApp ve telefon: +90 501 346 65 60
-- E-posta: airviewtr.media@gmail.com
+- E-posta: taha@airviewtr.com
 - Instagram: @airviewtr.official
 - Konum: Gaziantep, Türkiye; Türkiye geneli çekim
 
@@ -20,12 +20,12 @@
 - [İletişim](https://airviewtr.com/iletisim)
 
 ## Referanslar
-Teknoçim Makine, Evkur Emlak, Akmas Ambalaj, Living It Cafe, ROLE Medya, KNZ İnşaat, Yaşar Group, Ege Kalıp Sistemleri, Yılmazkar Group, Shelly Clean, Exzo Global, Seher Ticaret, Ragabi Group, Else Bornewa, abl yapı
+Teknoçim Makine, Evkur Emlak, Akmas Ambalaj, Living It Cafe, ROLE Medya, KNZ İnşaat, Yaşar Group, Ege Kalıp Sistemleri, Yılmazkar Group, Shelly Clean, abl yapı
 
 ## İşler
-- Teknoçim Makine: Mühendislikten üretime. Teknoçim Makine için fabrika tanıtım filmi: üretim hattı, kaynak ve kesim, tesis ve havadan görüntüler. Türkçe ve İngilizce sürümler.
-- Else Bornewa: Fabrika tanıtım filmi. Else Bornewa üretim tesisi için tanıtım filmi: elyaf üretiminden sevkiyata süreç.
+- Teknoçim Makine: Mühendislikten üretime. Teknoçim Makine için fabrika tanıtım filmi: üretim hattı, kaynak ve kesim, tesis ve havadan görüntüler. Türkçe ve İngilizce sürümler; sitede kısaltılmış hali.
 - Adana: Adana'yı hiç böyle görmedin. Seyhan Nehri, Taşköprü ve Sabancı Merkez Camii; Adana'nın havadan sinematik anlatımı.
+- Teknoçim Makine: Fabrikadan kesitler. Kaynak, kesim ve montaj: Teknoçim üretim hattından dikey kesitler.
 - KNZ İnşaat: Yerçekimi. Boş arsadan bitmiş villaya tek nefeste: Villa Oliva kendini inşa ediyor, KNZ logosu gökten iniyor. (Villa Oliva)
 - KNZ İnşaat: Beton nabzı. Her vuruşta bir kat. Kurgu müziğin ritmine kilitli; gündüzden geceye, villaların ışıkları sırayla yanıyor. (Villa Oliva)
 - Yaşar Group: Her şey bir çizgiyle başlar. Villa Oliva · Monart'ta ilk çizgiden ilk ışığa uzanan yolculuk. On bir villa, tek imza. (Villa Oliva · Monart)
@@ -43,12 +43,12 @@ Teknoçim Makine, Evkur Emlak, Akmas Ambalaj, Living It Cafe, ROLE Medya, KNZ İ
 - KNZ İnşaat: Yamaçtepe havadan. Ege Konutları arsası ve çevresi, dikey drone çekimi. Ege Konutları filmlerinde kullanıldı.
 - Yaşar Group: Monart Erikçe. Monart Erikçe şantiyesi; Ege Kalıp sistemleri sahada. Kalıp çıkar, kalite kalır filminin drone kaynağı.
 - Yaşar Group: Monart Sancaktepe. Monart Sancaktepe şantiyesinin havadan görünümü.
-- Teknoçim Makine: Fabrikadan kesitler. Kaynak, kesim ve montaj: Teknoçim üretim hattından dikey kesitler.
 - AirviewTR: Havadan. Fabrika ve tesis çekimlerinden havadan kesitler.
 - Adana: Seyhan, dikey. Adana filminin 15 saniyelik dikey sürümü.
 
 ## Sık sorulan sorular
 - AirviewTR nedir? AirviewTR, Gaziantep merkezli bir video prodüksiyon stüdyosudur. Drone çekimi, fabrika ve kurumsal tanıtım filmi, inşaat projeleri için lansman filmleri, ürün filmleri ve sosyal medya içerikleri üretir. Kurucusu Taha Çalışkan'dır.
+- AirviewTR'ın kurucusu kim? AirviewTR'ın kurucusu Taha Çalışkan'dır. Taha Çalışkan aynı zamanda web tasarım ve yazılım stüdyosu Calisqa Software'in de kurucusudur.
 - Hangi şehirlerde çekim yapıyorsunuz? Gaziantep merkezliyiz; Adana gibi farklı şehirlerde de çekim yaptık. Türkiye genelinde projeler için lojistiği birlikte planlıyoruz.
 - Drone çekimleri izinli mi? Evet. Lisanslı İHA pilotuyuz; uçuşları gerekli izin ve sigorta kapsamında planlıyoruz. Yasak bölgelerde uçuş yapmıyoruz.
 - Hangi ekipmanla çekiyorsunuz? Havadan çekimde DJI Mini 5 Pro (4K, 10 bit D-Log M), yerden çekimde Sony A7C II kullanıyoruz. Renk ve kurgu bizde.

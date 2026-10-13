@@ -1,66 +1,179 @@
 # AirviewTR
 
-> AirviewTR, Gaziantep merkezli bir video prodüksiyon stüdyosudur: drone çekimi, fabrika ve kurumsal tanıtım filmi, inşaat ve gayrimenkul lansman filmleri, ürün ve reklam filmleri, sosyal medya içerikleri. Sloganı: "Tek kurgu. Her açı." Kurucusu Taha Çalışkan'dır (lisanslı İHA pilotu). Taha Çalışkan, AirviewTR ve Calisqa Software'in kurucusudur.
+> AirviewTR, Gaziantep merkezli bir video prodüksiyon ajansıdır. Reklam filmi, kurumsal ve fabrika tanıtım filmi, inşaat ve gayrimenkul filmleri, ürün filmi ve sosyal medya videolarını senaryodan renk düzenlemesine kadar tek ekip üretir; yer çekimini, İHA-1 sertifikalı pilotla drone çekimini ve post prodüksiyonu birleştirir. Türkiye genelinde çalışır.
+
+Kurucu: Taha Çalışkan (İHA-1 ticari İHA pilotu; aynı zamanda Calisqa Software'in kurucusu). Merkez: Gaziantep, Türkiye. Hizmet bölgesi: Gaziantep, Kahramanmaraş, Şanlıurfa, Adıyaman, Adana, Mersin ve tüm Türkiye.
 
 ## İletişim
-- WhatsApp ve telefon: +90 501 346 65 60
+- Telefon ve WhatsApp: +90 501 346 65 60
 - E-posta: taha@airviewtr.com
 - Instagram: @airviewtr.official
-- Konum: Gaziantep, Türkiye; Türkiye geneli çekim
-
-## Ekipman
-- DJI Mini 5 Pro (4K, 10 bit D-Log M), Sony A7C II
-
-## Sayfalar
-- [Ana sayfa](https://airviewtr.com/)
-- [İşler](https://airviewtr.com/isler)
-- [Hizmetler](https://airviewtr.com/hizmetler)
-- [Hakkımızda](https://airviewtr.com/hakkimizda)
-- [SSS](https://airviewtr.com/sss)
-- [İletişim](https://airviewtr.com/iletisim)
+- Teklif formu: https://airviewtr.com/teklif-al
+- Fiyatlar: https://airviewtr.com/fiyatlar
 
 ## Hizmetler
-- [Drone çekimi](https://airviewtr.com/drone-cekimi): Gaziantep drone çekimi: fabrika, şantiye, arsa ve şehir için 4K havadan film ve fotoğraf. Lisanslı İHA pilotu, izinli ve sigortalı uçuş.
-- [Fabrika ve kurumsal film](https://airviewtr.com/tanitim-filmi): Fabrika ve kurumsal tanıtım filmi: üretim hattı, kapasite, ekip ve tesis. Fuar, web sitesi ve ihracat sunumları için Türkçe ve İngilizce.
-- [İnşaat ve gayrimenkul](https://airviewtr.com/insaat-tanitim-filmi): İnşaat ve gayrimenkul tanıtım filmi: arsa ve şantiyenin drone çekimi, render ile bitmiş hâl, ön satış ve lansman filmleri. KNZ İnşaat, Yaşar Group.
-- [Ürün ve reklam filmi](https://airviewtr.com/urun-reklam-filmi): Ürün ve reklam filmi: ürünü kullanıldığı yerde anlatan kısa filmler, distribütörler için Türkçe, Arapça ve Azerice sürümler. Shelly Clean filmleri.
-- [Reels ve içerik](https://airviewtr.com/sosyal-medya-video): Sosyal medya video prodüksiyonu: Instagram reels, TikTok ve hikâye içerikleri, aylık içerik planı ve post tasarımı. Gaziantep, AirviewTR.
-- [Kurgu ve renk](https://airviewtr.com/kurgu-renk): Video kurgu, renk düzenleme, müzik, ses tasarımı ve altyazı. Dikey ve yatay sürümler, sürümlü teslim. AirviewTR post prodüksiyon.
+- [Kurumsal tanıtım filmi](https://airviewtr.com/hizmetler/tanitim-filmi): Gaziantep'te kurumsal tanıtım filmi: senaryo, yerden ve havadan çekim, röportaj ve kurgu. 29.900 TL'den başlayan paketler, 7-15 iş günü teslim. Fiyat: 29.900 TL'den başlayan paketler.
+- [Fabrika tanıtım filmi](https://airviewtr.com/hizmetler/fabrika-tanitim-filmi): Gaziantep OSB'de fabrika tanıtım filmi: üretim hattı, kapasite, kalite ve tesisin havadan görüntüsü. İhracat için İngilizce sürüm. 29.900 TL'den. Fiyat: 29.900 TL'den başlayan paketler.
+- [Reklam filmi](https://airviewtr.com/hizmetler/reklam-filmi): Gaziantep'te reklam filmi: konsept, senaryo, çekim ve kurgu tek ekipte. 15-45 saniyelik dikey ve yatay filmler; 19.900 TL'den başlayan paketler. Fiyat: 19.900 TL'den başlayan paketler.
+- [Ürün çekimi](https://airviewtr.com/hizmetler/urun-cekimi): Gaziantep'te ürün fotoğrafı ve ürün videosu çekimi: e-ticaret, katalog ve reklam için. 9.900 TL'den başlayan paketler, 5-10 iş günü teslim. Fiyat: 9.900 TL'den başlayan paketler.
+- [Sosyal medya video](https://airviewtr.com/hizmetler/sosyal-medya-video): Gaziantep'te Instagram Reels, TikTok ve Shorts için aylık video çekimi: ayda 4, 8 ya da 12 dikey video. 14.900 TL/ay'dan başlayan paketler. Fiyat: 14.900 TL'den başlayan paketler.
+- [İnşaat ve gayrimenkul filmi](https://airviewtr.com/hizmetler/insaat-tanitim-filmi): Gaziantep'te inşaat ve gayrimenkul tanıtım filmi: aylık şantiye drone çekimi, satış lansman filmi ve Reels. 7.900 TL/ay'dan başlayan paketler. Fiyat: 7.900 TL'den başlayan paketler.
+- [Etkinlik ve fuar çekimi](https://airviewtr.com/hizmetler/etkinlik-fuar-cekimi): Gaziantep'te etkinlik, açılış, lansman ve fuar video çekimi: özet film, konuşma kesitleri, dikey videolar. 12.900 TL'den başlayan paketler. Fiyat: 12.900 TL'den başlayan paketler.
+- [Restoran ve kafe videosu](https://airviewtr.com/hizmetler/restoran-tanitim-videosu): Gaziantep'te restoran, kafe ve pastane çekimi: menü fotoğrafı, mekân tanıtım videosu ve Reels. 9.900 TL'den başlayan paketler, 5-7 iş günü. Fiyat: 9.900 TL'den başlayan paketler.
+- [Drone çekimi](https://airviewtr.com/hizmetler/drone-cekimi): Gaziantep'te drone çekimi: arsa, fabrika, şantiye ve etkinlik için havadan video ve fotoğraf. İHA-1 pilot, sigortalı uçuş. 6.900 TL'den. Fiyat: 6.900 TL'den başlayan paketler.
+- [Kurgu ve renk](https://airviewtr.com/hizmetler/kurgu-renk): Video kurgu, renk düzenleme, ses miksajı ve altyazı: görüntü sizden, yayına hazır film bizden. 2.900 TL'den başlayan kurgu paketleri. Fiyat: 2.900 TL'den başlayan paketler.
 
-## Referanslar
-Teknoçim Makine, Evkur Emlak, Akmas Ambalaj, Living It Cafe, ROLE Medya, KNZ İnşaat, Yaşar Group, Ege Kalıp Sistemleri, Yılmazkar Group, Shelly Clean, abl yapı
+## Fiyatlar (KDV dahil, başlangıç fiyatları)
+- Kurumsal tanıtım filmi: Kompakt 29.900 TL; Standart 54.900 TL; Kapsamlı 94.900 TL
+- Fabrika tanıtım filmi: Kompakt 29.900 TL; Standart 54.900 TL; İhracat 94.900 TL
+- Reklam filmi: Kısa reklam 19.900 TL; Reklam filmi 44.900 TL; Kampanya 84.900 TL
+- Ürün çekimi: Ürün fotoğrafı 9.900 TL; Ürün kısa film 19.900 TL; Film + fotoğraf 34.900 TL
+- Sosyal medya video: 4 video / ay 14.900 TL; 8 video / ay 24.900 TL; 12 video / ay 34.900 TL
+- İnşaat ve gayrimenkul filmi: Şantiye takibi 7.900 TL; Takip + sosyal 12.900 TL; Lansman filmi 39.900 TL
+- Etkinlik ve fuar çekimi: Yarım gün 12.900 TL; Tam gün 19.900 TL; Çok kameralı 34.900 TL
+- Restoran ve kafe videosu: Menü fotoğrafı 9.900 TL; Mekân + menü 19.900 TL; Açılış / lansman 29.900 TL
+- Drone çekimi: Hızlı 6.900 TL; Yarım gün 14.900 TL; Tam gün, yer + hava 24.900 TL
+- Kurgu ve renk: Kısa 2.900 TL; Film 9.900 TL; Uzun / çok kameralı 19.900 TL
 
-## İşler
-- Teknoçim Makine: Mühendislikten üretime. Teknoçim Makine için fabrika tanıtım filmi: üretim hattı, kaynak ve kesim, tesis ve havadan görüntüler. Türkçe ve İngilizce sürümler; sitede kısaltılmış hali.
-- Adana: Adana'yı hiç böyle görmedin. Seyhan Nehri, Taşköprü ve Sabancı Merkez Camii; Adana'nın havadan sinematik anlatımı.
-- Teknoçim Makine: Fabrikadan kesitler. Kaynak, kesim ve montaj: Teknoçim üretim hattından dikey kesitler.
-- KNZ İnşaat: Yerçekimi. Boş arsadan bitmiş villaya tek nefeste: Villa Oliva kendini inşa ediyor, KNZ logosu gökten iniyor. (Villa Oliva)
-- KNZ İnşaat: Beton nabzı. Her vuruşta bir kat. Kurgu müziğin ritmine kilitli; gündüzden geceye, villaların ışıkları sırayla yanıyor. (Villa Oliva)
-- Yaşar Group: Her şey bir çizgiyle başlar. Villa Oliva · Monart'ta ilk çizgiden ilk ışığa uzanan yolculuk. On bir villa, tek imza. (Villa Oliva · Monart)
-- Ege Kalıp Sistemleri: Kalıp çıkar, kalite kalır. Çelik kalıp sistemleri: modüler, hassas, sağlam. Beton, şeklini bizden alır. (Çelik kalıp)
-- KNZ İnşaat: İlk çizgiden ilk ışığa. Ege Konutları, Yamaçtepe: plandan bitmiş binaya 40 saniyelik lansman filmi. (Ege Konutları)
-- KNZ İnşaat: Gün en güzel yamaçta batar. Ege Konutları için altın saatte, yamacın ışığıyla çekilmiş tanıtım filmi. (Ege Konutları)
-- KNZ İnşaat: Yukarıdan bir plan. Kuşbakışı vaziyet planından yuvanın kapısına: Ege Konutları ikinci film. (Ege Konutları)
-- abl yapı: Gün biter, ışıklar yanar. Liva Beştepe Evleri: iki blok, geniş balkonlar ve ferah 2,5+1 daireler. Her pencerede bir hikâye. (Liva Beştepe Evleri)
-- Yılmazkar Group: Hiç olmamış gibi. Kedi yine iş başında. Ama Shelly'nin olduğu evde hiçbir iz kalıcı değil. (Shelly Clean)
-- Yılmazkar Group: Eve biraz deniz. Her yaz eve biraz deniz taşır. Shelly Okyanus, iz bırakmayan özel formülüyle. (Shelly Okyanus)
-- Yılmazkar Group: Her yüzey tek hamlede. Tezgâh, cam, çelik, ayna, ahşap. Türkçe, Arapça ve Azerice sürümlerle hazırlandı. (Shelly yüzey havlusu)
-- Yılmazkar Group: Kapı çaldı, misafir geliyor. Mop uyumlu yer temizlik havlusu: tek geçişte, iz bırakmadan. Üç dilde yayında. (Shelly mop uyumlu)
-- Yılmazkar Group: Temizliğin yolculuğu. Shelly Clean ürün ailesi için hazırlanan ilk ürün filmi. (Shelly Clean)
-- Villa Oliva: Şantiyeden yukarı. Villa Oliva şantiyesinin drone çekimlerinden kesitler. Pitch ve KNZ filmlerinin gerçek kaynağı.
-- KNZ İnşaat: Yamaçtepe havadan. Ege Konutları arsası ve çevresi, dikey drone çekimi. Ege Konutları filmlerinde kullanıldı.
-- Yaşar Group: Monart Erikçe. Monart Erikçe şantiyesi; Ege Kalıp sistemleri sahada. Kalıp çıkar, kalite kalır filminin drone kaynağı.
-- Yaşar Group: Monart Sancaktepe. Monart Sancaktepe şantiyesinin havadan görünümü.
-- AirviewTR: Havadan. Fabrika ve tesis çekimlerinden havadan kesitler.
-- Adana: Seyhan, dikey. Adana filminin 15 saniyelik dikey sürümü.
+## İşler (vaka sayfaları)
+- [Teknoçim Makine tanıtım filmi](https://airviewtr.com/isler/teknocim-makine-fabrika-tanitim-filmi): Teknoçim Makine için fabrika tanıtım filmi: üretim tesisi, saha montajı ve havadan görüntüler. Türkçe ve İngilizce sürümler, yerden ve havadan çekim.
+- [Teknoçim üretim hattı kesitleri](https://airviewtr.com/isler/teknocim-makine-uretim-hatti-dikey-videolar): Teknoçim Makine üretim hattından dikey kesitler: kaynak, kesim ve montaj. Kurumsal film çekiminden üretilen 29 saniyelik Reels videosu.
+- [Adana havadan şehir filmi](https://airviewtr.com/isler/adana-havadan-sehir-tanitim-filmi): Adana havadan şehir filmi: Seyhan Nehri, Taşköprü ve Sabancı Merkez Camii drone ile. 40 saniyelik yatay film ve 15 saniyelik dikey sürüm.
+- [Havadan çekim seçkisi](https://airviewtr.com/isler/havadan-cekim-seckisi): Fabrika ve sanayi tesisi drone çekimlerinden seçki: tesis bütünü, çatılar, yükleme alanları ve iç mekân geçişi. Lisanslı ve sigortalı uçuş.
+- [KNZ İnşaat: Yerçekimi](https://airviewtr.com/isler/knz-insaat-yercekimi-reels): KNZ İnşaat için Villa Oliva projesi Reels filmi: boş arsadan bitmiş villaya tek akış. Drone görüntüsü, render ve yapay zekâ destekli görselleştirme.
+- [KNZ İnşaat: Beton nabzı](https://airviewtr.com/isler/knz-insaat-beton-nabzi-reels): KNZ İnşaat için ritim kurgulu Reels: her vuruşta bir kat yükselen villalar, gündüzden geceye geçiş. Drone, render ve yapay zekâ destekli üretim.
+- [Yaşar Group: Villa Oliva · Monart](https://airviewtr.com/isler/yasar-group-villa-oliva-monart-tanitim-filmi): Yaşar Group Villa Oliva · Monart için proje tanıtım filmi: Gaziantep İbrahimli'de 11 villa. Şantiye drone çekimi, render ve görselleştirme.
+- [Ege Kalıp: Kalıp çıkar, kalite kalır](https://airviewtr.com/isler/ege-kalip-sistemleri-tanitim-filmi): Ege Kalıp Sistemleri için çelik kalıp reklam filmi: kalıp sistemleri şantiyede, sahadan ve drone ile. 30 saniyelik dikey film, Monart Erikçe şantiyesi.
+- [Ege Konutları lansman filmi](https://airviewtr.com/isler/knz-insaat-ege-konutlari-lansman-filmi): KNZ İnşaat Ege Konutları, Yamaçtepe için lansman filmi: plandan bitmiş binaya 40 saniye. Arsanın drone çekimi, render ve görselleştirmeyle.
+- [Ege Konutları altın saat filmi](https://airviewtr.com/isler/knz-insaat-ege-konutlari-altin-saat-filmi): KNZ İnşaat Ege Konutları için altın saat filmi: yamacın gün batımı ışığında proje ve manzara. 32 saniyelik dikey film, drone ve görselleştirme.
+- [Ege Konutları vaziyet planı filmi](https://airviewtr.com/isler/knz-insaat-ege-konutlari-vaziyet-plani-filmi): KNZ İnşaat Ege Konutları için vaziyet planı filmi: kuşbakışı site yerleşiminden evin kapısına tek hareket. 32 saniyelik dikey proje filmi.
+- [abl yapı: Liva Beştepe Evleri](https://airviewtr.com/isler/abl-yapi-liva-bestepe-evleri-tanitim-filmi): abl yapı Liva Beştepe Evleri için konut tanıtım filmi: iki blok, geniş balkonlar ve 2,5+1 daire planı. Render'lardan kurgulanmış 28 saniyelik film.
+- [Shelly Clean: Hiç olmamış gibi](https://airviewtr.com/isler/shelly-clean-hic-olmamis-gibi-reklam-filmi): Yılmazkar Group Shelly Clean için ürün reklam filmi: kedinin bıraktığı izler ve iz bırakmayan temizlik. Gerçek ürün görsellerinden yapay zekâ destekli film.
+- [Shelly Okyanus: Eve biraz deniz](https://airviewtr.com/isler/shelly-okyanus-urun-reklam-filmi): Shelly Okyanus için ürün reklam filmi: deniz ve yaz duygusunu temizliğe taşıyan 40 saniyelik dikey film. Gerçek ürün görselinden yapay zekâ destekli üretim.
+- [Shelly yüzey havlusu: üç dil](https://airviewtr.com/isler/shelly-yuzey-havlusu-uc-dilli-reklam-filmi): Shelly yüzey temizlik havlusu için ürün filmi: tezgâh, cam, çelik, ayna ve ahşap. Türkçe, Arapça ve Azerice sürümlü 25 saniyelik dikey film.
+- [Shelly mop uyumlu havlu](https://airviewtr.com/isler/shelly-mop-uyumlu-havlu-reklam-filmi): Shelly mop uyumlu yer temizlik havlusu için 25 saniyelik ürün filmi: misafir gelmeden tek geçişte temiz zemin. Üç dil sürümüyle dikey film.
+- [Shelly Clean: Temizliğin yolculuğu](https://airviewtr.com/isler/shelly-clean-urun-ailesi-tanitim-filmi): Shelly Clean ürün ailesi için ilk marka filmi: sonraki ürün videolarının renk, ritim ve kapanış dilini belirleyen 40 saniyelik dikey film.
+
+## Sektörler
+- [Fabrika ve sanayi](https://airviewtr.com/sektorler/fabrika-sanayi): OSB üreticileri, ihracatçılar ve endüstriyel tesisler için film ve içerik.
+- [Otel ve turizm](https://airviewtr.com/sektorler/otel-turizm): Otel, butik konaklama ve turizm işletmeleri için tanıtım filmi ve fotoğraf.
+- [Gayrimenkul ve emlak](https://airviewtr.com/sektorler/gayrimenkul): Satılık konut, arsa ve emlak ofisleri için ilan videosu ve drone çekimi.
+- [Restoran ve kafe](https://airviewtr.com/sektorler/restoran-kafe): Restoran, kafe, pastane ve lokantalar için menü fotoğrafı, video ve web sitesi.
+- [Kurumsal ve hizmet](https://airviewtr.com/sektorler/kurumsal): Klinik, okul, danışmanlık ve hizmet şirketleri için tanıtım ve içerik videoları.
+- [Etkinlik ve organizasyon](https://airviewtr.com/sektorler/etkinlik): Organizatörler, kurumlar ve markalar için etkinlik, lansman ve fuar filmi.
+- [İnşaat ve mimarlık](https://airviewtr.com/sektorler/insaat-mimari): Müteahhitler, mimarlık ofisleri ve yapı malzemesi firmaları için film.
+
+## Bölgeler
+- [Gaziantep](https://airviewtr.com/bolgeler/gaziantep): Merkez: Şahinbey, Şehitkamil, OSB ve tüm ilçelerde ulaşım dahil çekim.
+- [Kahramanmaraş](https://airviewtr.com/bolgeler/kahramanmaras): Gaziantep'e yaklaşık 80 km: tekstil, OSB ve yeni konut projeleri için çekim.
+- [Şanlıurfa](https://airviewtr.com/bolgeler/sanliurfa): Gaziantep'e yaklaşık 140 km: tarım, sanayi ve turizm için tanıtım filmi.
+- [Adıyaman](https://airviewtr.com/bolgeler/adiyaman): Gaziantep'e yaklaşık 160 km: yeniden yapılaşma, turizm ve yerel üreticiler.
+- [Adana](https://airviewtr.com/bolgeler/adana): Gaziantep'e yaklaşık 210 km: sanayi, tarım ve şehir tanıtımı; Adana filmimiz.
+- [Mersin](https://airviewtr.com/bolgeler/mersin): Gaziantep'e yaklaşık 280 km: liman, lojistik, tarım ve kıyı konut projeleri.
+
+## Müşteri yorumları
+- "AirviewTR ile çalışmak vizyonumuzu bambaşka bir seviyeye taşıdı. Kurgu hızları ve ekipmanın kalitesi muazzam." (Müslüm G., Evkur Emlak)
+- "Tanıtım filmi çekiminden çok memnun kaldık. Profesyonel ve kaliteli bir çalışma oldu." (İbrahim Ç., Akmas Ambalaj)
+- "AirviewTR ile yaptığımız tanıtım filmi beklentilerimizin çok ötesinde kaldı. Çekim kalitesi ve profesyonellikleri işletmemizi en iyi şekilde yansıttı." (Yunus H., Living It Cafe)
+
+## Rehber
+- [Altın saat ve mavi saat: mekân çekiminde ışık planı](https://airviewtr.com/rehber/altin-saat-ve-mavi-saat-cekimi)
+- [Altyazı mı, seslendirme mi? TR/EN versiyon kararları](https://airviewtr.com/rehber/altyazi-ve-seslendirme-kararlari)
+- [Gaziantep dışında çekim: Kahramanmaraş, Şanlıurfa, Adıyaman, Adana ve Mersin için lojistik planı](https://airviewtr.com/rehber/bolge-disi-cekim-lojistik-plani)
+- [Dikey video (9:16) yatay filmden nasıl farklı planlanır?](https://airviewtr.com/rehber/dikey-video-cekimi-nasil-planlanir)
+- [Drone çekimi izinleri (2026): ticari çekim için neler gerekir?](https://airviewtr.com/rehber/drone-cekimi-izinleri)
+- [Drone çekiminde üçüncü taraf mesuliyet sigortası neyi kapsar?](https://airviewtr.com/rehber/drone-cekiminde-sigorta)
+- [Etkinlik çekimi için organizatör kontrol listesi](https://airviewtr.com/rehber/etkinlik-cekimi-kontrol-listesi)
+- [Fabrika çekim günü planı: örnek bir gün akışı](https://airviewtr.com/rehber/fabrika-cekim-gunu-plani-ornegi)
+- [Fabrika filmi senaryosu nasıl kurulur?](https://airviewtr.com/rehber/fabrika-filmi-senaryosu-nasil-kurulur)
+- [Fabrika tanıtım filmine hazırlık: tesiste neler hazırlanmalı?](https://airviewtr.com/rehber/fabrika-tanitim-filmine-hazirlik)
+- [Fabrikada İSG kurallarına uygun çekim nasıl yapılır?](https://airviewtr.com/rehber/fabrikada-isg-kurallarina-uygun-cekim)
+- [FPV, drone ve cinewhoop arasındaki fark nedir?](https://airviewtr.com/rehber/fpv-drone-cinewhoop-farki)
+- [Fuarda tanıtım filmi nasıl kullanılır?](https://airviewtr.com/rehber/fuarda-tanitim-filmi-kullanimi)
+- [Satılık konut tanıtım videosunda hangi sahneler olmalı?](https://airviewtr.com/rehber/gayrimenkul-tanitim-videosu-sahne-listesi)
+- [Havadan çekim için doğru gün ve saat nasıl seçilir?](https://airviewtr.com/rehber/havadan-cekim-icin-dogru-gun-ve-saat)
+- [Havadan çekim rehberi: drone ile tanıtım filmi nasıl planlanır?](https://airviewtr.com/rehber/havadan-cekim-rehberi)
+- [Her tanıtım filminde drone gerekir mi?](https://airviewtr.com/rehber/her-tanitim-filminde-drone-gerekir-mi)
+- [İHA-1 sertifikası nedir, drone pilotunda hangi belgeler sorulmalı?](https://airviewtr.com/rehber/iha-1-sertifikasi-nedir)
+- [Kapalı alanda tek planda geçiş çekimi nasıl planlanır?](https://airviewtr.com/rehber/kapali-alanda-tek-plan-gecis-cekimi)
+- [Kurgu süreci ve revizyon notları nasıl yazılır?](https://airviewtr.com/rehber/kurgu-ve-revizyon-sureci)
+- [Kurumsal filmde çalışan ve müşteri görüntü izinleri](https://airviewtr.com/rehber/kurumsal-cekimde-goruntu-izinleri)
+- [Kurumsal tanıtım filmi ile işveren markası videosu arasındaki fark](https://airviewtr.com/rehber/kurumsal-film-ve-isveren-markasi-videosu-farki)
+- [Kurumsal filmde motion graphics ve infografik ne zaman kullanılır?](https://airviewtr.com/rehber/kurumsal-filmde-motion-graphics)
+- [Kurumsal tanıtım filmi nasıl hazırlanır? Planlamadan teslime rehber](https://airviewtr.com/rehber/kurumsal-tanitim-filmi-rehberi)
+- [Marka filmi için hikâye nasıl seçilir?](https://airviewtr.com/rehber/marka-filmi-icin-hikaye-secimi)
+- [Mekân fotoğrafçılığında yerden ve havadan kare: hangi açı neyi anlatır?](https://airviewtr.com/rehber/mekan-fotografciliginda-yer-ve-hava-karesi)
+- [Mekân tanıtım videosu nasıl çekilir? Otel, gayrimenkul, restoran ve şantiye rehberi](https://airviewtr.com/rehber/mekan-tanitim-filmi-rehberi)
+- [Tamamlanmış mimari projenin video ve fotoğrafla belgelenmesi](https://airviewtr.com/rehber/mimari-proje-tanitim-videosu)
+- [Müşteri referans videosu nasıl hazırlanır?](https://airviewtr.com/rehber/musteri-referans-videosu-nasil-hazirlanir)
+- [Otel çekimine hazırlık kontrol listesi](https://airviewtr.com/rehber/otel-cekimine-hazirlik)
+- [Post prodüksiyon nedir? Kurgudan teslim dosyasına rehber](https://airviewtr.com/rehber/post-produksiyon-nedir)
+- [Gaziantep'te video prodüksiyon ajansı seçerken sorulacak 10 soru](https://airviewtr.com/rehber/produksiyon-ajansi-secerken-sorulacak-10-soru)
+- [Prodüksiyon sözleşmesinde olması gereken maddeler](https://airviewtr.com/rehber/produksiyon-sozlesmesi-maddeleri)
+- [Prodüksiyon tekliflerini karşılaştırma rehberi](https://airviewtr.com/rehber/produksiyon-tekliflerini-karsilastirma-rehberi)
+- [Reels ve Shorts kurgusunda ilk saniyeler](https://airviewtr.com/rehber/reels-kurgusu-ilk-saniyeler)
+- [Reklam filmi çekim süreci: konseptten yayına](https://airviewtr.com/rehber/reklam-filmi-cekim-sureci)
+- [Reklam filmi nasıl yapılır? Konseptten yayına rehber](https://airviewtr.com/rehber/reklam-filmi-nasil-yapilir)
+- [Reklam filmi senaryosu nasıl yazılır?](https://airviewtr.com/rehber/reklam-filmi-senaryosu-nasil-yazilir)
+- [Reklam filmi ile tanıtım filmi arasındaki fark nedir?](https://airviewtr.com/rehber/reklam-filmi-tanitim-filmi-farki)
+- [Reklam filminde oyuncu ve mekân seçimi](https://airviewtr.com/rehber/reklam-filminde-oyuncu-ve-mekan-secimi)
+- [Renk düzeltme (color grading) neyi değiştirir?](https://airviewtr.com/rehber/renk-duzeltme-neyi-degistirir)
+- [Restoran çekimine hazırlık: mutfak, sunum ve salon](https://airviewtr.com/rehber/restoran-cekimine-hazirlik)
+- [Restoran için tek çekim gününde hangi içerikler üretilir?](https://airviewtr.com/rehber/restoran-icin-cekim-gunu-icerik-plani)
+- [Röportaj çekimi rehberi: kamera karşısında doğal görünmek](https://airviewtr.com/rehber/roportaj-cekimi-rehberi)
+- [Şantiye çekimine hazırlık: güvenlik ve izin kontrol listesi](https://airviewtr.com/rehber/santiye-cekimine-hazirlik)
+- [Şantiye ilerleme çekiminde sabit kadraj ve çekim aralığı nasıl belirlenir?](https://airviewtr.com/rehber/santiye-ilerleme-cekimi-nasil-planlanir)
+- [Serbest çekimci mi, prodüksiyon ajansı mı?](https://airviewtr.com/rehber/serbest-cekimci-mi-produksiyon-ajansi-mi)
+- [Sınırlı bütçeyle tanıtım filmi: nereden kısılır, nereden kısılmaz?](https://airviewtr.com/rehber/sinirli-butceyle-tanitim-filmi)
+- [Storyboard nedir, reklam filminde neden gerekir?](https://airviewtr.com/rehber/storyboard-nedir)
+- [Tanıtım filmi yayın ve dağıtım kontrol listesi](https://airviewtr.com/rehber/tanitim-filmi-dagitim-kontrol-listesi)
+- [Tanıtım filmi fiyatını ne belirler?](https://airviewtr.com/rehber/tanitim-filmi-fiyatini-ne-belirler)
+- [Tanıtım filminin kullanım hakları ve müzik lisansı kime ait?](https://airviewtr.com/rehber/tanitim-filmi-kullanim-haklari)
+- [Gaziantep'te tanıtım filmi süreci: ilk görüşmeden teslime adım adım](https://airviewtr.com/rehber/tanitim-filmi-sureci-adim-adim)
+- [Tanıtım filminde müzik ve ses tasarımı](https://airviewtr.com/rehber/tanitim-filminde-muzik-ve-ses-tasarimi)
+- [Tek çekimden fuar, web ve sosyal medya kesitleri](https://airviewtr.com/rehber/tek-cekimden-farkli-formatlar)
+- [Tesis üzerinde uçuş güvenliği: hangi önlemler alınır?](https://airviewtr.com/rehber/tesis-uzerinde-ucus-guvenligi)
+- [Ürün filminde ışık ve doku](https://airviewtr.com/rehber/urun-filminde-isik-ve-doku)
+- [Ürün fotoğrafı çekimine hazırlık kontrol listesi](https://airviewtr.com/rehber/urun-fotografi-cekimine-hazirlik)
+- [Ürün fotoğrafı mı, ürün videosu mu?](https://airviewtr.com/rehber/urun-fotografi-mi-urun-videosu-mu)
+- [Video prodüksiyon brief'i nasıl yazılır? Ajansa göndermeden önce doldurulacak şablon](https://airviewtr.com/rehber/video-produksiyon-brief-nasil-yazilir)
+- [Video prodüksiyon hizmeti nasıl alınır? Brief, teklif ve sözleşme rehberi](https://airviewtr.com/rehber/video-produksiyon-hizmeti-satin-alma-rehberi)
+- [Video prodüksiyon terimleri sözlüğü](https://airviewtr.com/rehber/video-produksiyon-terimleri-sozlugu)
+- [Video teslim formatları rehberi: ProRes, MP4, 4K ve 9:16](https://airviewtr.com/rehber/video-teslim-formatlari-rehberi)
+- [Yemek çekiminde ışık ve sunum](https://airviewtr.com/rehber/yemek-cekiminde-isik-ve-sunum)
+- [Yönetici mesajı videosu nasıl çekilir?](https://airviewtr.com/rehber/yonetici-mesaji-videosu-nasil-cekilir)
+- [Yurt dışı alıcı için kurumsal film: dil, içerik ve versiyon planı](https://airviewtr.com/rehber/yurt-disi-alici-icin-kurumsal-film)
 
 ## Sık sorulan sorular
-- AirviewTR nedir? AirviewTR, Gaziantep merkezli bir video prodüksiyon stüdyosudur. Drone çekimi, fabrika ve kurumsal tanıtım filmi, inşaat projeleri için lansman filmleri, ürün filmleri ve sosyal medya içerikleri üretir. Kurucusu Taha Çalışkan'dır.
-- AirviewTR'ın kurucusu kim? AirviewTR'ın kurucusu Taha Çalışkan'dır. Taha Çalışkan aynı zamanda web tasarım ve yazılım stüdyosu Calisqa Software'in de kurucusudur.
-- Hangi şehirlerde çekim yapıyorsunuz? Gaziantep merkezliyiz; Adana gibi farklı şehirlerde de çekim yaptık. Türkiye genelinde projeler için lojistiği birlikte planlıyoruz.
-- Drone çekimleri izinli mi? Evet. Lisanslı İHA pilotuyuz; uçuşları gerekli izin ve sigorta kapsamında planlıyoruz. Yasak bölgelerde uçuş yapmıyoruz.
-- Hangi ekipmanla çekiyorsunuz? Havadan çekimde DJI Mini 5 Pro (4K, 10 bit D-Log M), yerden çekimde Sony A7C II kullanıyoruz. Renk ve kurgu bizde.
-- Bina henüz bitmedi, film yapılabilir mi? Evet. Arsayı ve şantiyeyi drone ile çekip mimari render ve görselleştirmeyle birleştiriyoruz; alıcı binanın bitmiş hâlini gerçek çevresiyle görür. KNZ İnşaat ve Yaşar Group projelerinde bunu yaptık.
-- Bir tanıtım filmi ne kadar sürede teslim edilir? Kapsama göre değişir. Sosyal medya filmleri genellikle birkaç iş gününde, fabrika ve kurumsal filmler planlamaya göre teslim edilir. Teklifle birlikte net bir takvim veriyoruz.
-- Farklı dillerde sürüm hazırlıyor musunuz? Evet. Teknoçim filmi Türkçe ve İngilizce, Shelly filmleri Türkçe, Arapça ve Azerice sürümlerle hazırlandı.
-- Fiyat nasıl belirleniyor? Çekim günü, lokasyon, drone ihtiyacı, kurgu süresi ve teslim edilecek sürüm sayısına göre. Brief bırakın, net bir teklifle dönelim.
+- Gaziantep'te tanıtım filmi ne kadar? AirviewTR'da kurumsal ve fabrika tanıtım filmi 29.900 TL'den başlar (KDV dahil, Ekim 2026). Bir tam gün çekim, yönetici röportajı ve 2-3 dakikalık filmden oluşan Standart paket 54.900 TL, iki çekim günü ve İngilizce sürüm içeren paket 94.900 TL'dir. Tüm paketler fiyatlar sayfasında yazılıdır.
+- Drone çekimi kaç TL? Drone çekimi 6.900 TL'den başlar: tek lokasyon, sahada 1,5 saate kadar, 15 düzenlenmiş fotoğraf ve 30 saniyelik kurgulu klip. Yarım gün paketi 14.900 TL, yer kamerasıyla tam gün 24.900 TL'dir (KDV dahil).
+- Reklam filmi fiyatları ne kadar? Reklam filmi 19.900 TL'den başlar. Konsept ve storyboard içeren Reklam filmi paketi 44.900 TL, iki konseptli Kampanya paketi 84.900 TL'dir (KDV dahil). Oyuncu, stüdyo ve medya bütçesi ayrıca yazılır.
+- Aylık sosyal medya video paketleri ne kadar? Ayda 4 dikey video 14.900 TL, 8 video 24.900 TL, 12 video 34.900 TL'dir (KDV dahil). En az 3 ay çalışılır; tek seferlik İçerik günü 17.900 TL'dir.
+- Fiyatlara KDV dahil mi? Evet. Sitedeki tüm fiyatlar KDV dahildir. KDV hariç tutar için fiyatı 1,2'ye bölebilirsiniz. Kurumsal fatura kesilir.
+- Ödeme nasıl yapılır? Proje işlerinde %50 ön ödemeyle tarih kesinleşir, kalan %50 teslimde ödenir. Aylık paketlerde ödeme ay başında yapılır.
+- Sitedeki fiyat ile yazılı teklif farklı olabilir mi? Sitedeki fiyatlar başlangıç fiyatıdır. Kesin fiyat, kısa bir keşif görüşmesinden sonra kalem kalem yazılı teklifle verilir. Yazılı teklifte olmayan bir kalem sonradan eklenmez.
+- Fiyatı en çok ne etkiler? Çekim süresi, lokasyon sayısı, havadan çekim, röportaj ve seslendirme, dil ve sürüm sayısı, teslim süresi ve şehir dışı ulaşım. Her etkenin ek maliyeti fiyatlar sayfasındaki tabloda yazılıdır.
+- Bir film kaç günde teslim edilir? Pakete göre değişir: drone ve kısa işler 3-5 iş günü, reklam ve ürün filmleri 5-10 iş günü, kurumsal ve fabrika tanıtım filmleri 7-15 iş günü. Express teslim ek ücretle süreyi yarıya indirir.
+- Süreç nasıl başlıyor? Teklif sihirbazını doldurur ya da WhatsApp'tan yazarsınız; aynı gün yanıt veririz. 15-30 dakikalık keşif görüşmesinden sonra yazılı teklif gelir, onayınızla senaryo ve çekim planı hazırlanır.
+- Kaç revizyon hakkım var? Paketlere göre 1 ile 3 arası revizyon turu vardır; tur sayısı paket kartında yazar. Bir turda tüm notlar tek seferde iletilir. Paketteki turlar bittikten sonra her ek tur 1.900 TL'dir.
+- Senaryoyu kim yazıyor? Senaryoyu, çekim listesini ve röportaj sorularını biz hazırlarız; siz onaylarsınız. Elinizde metin ya da fikir varsa onu geliştiririz.
+- Çekim günü ne kadar sürer? Yarım gün paketler 4-5 saat, tam gün paketler 8-10 saat sürer. Çekim akışı saat saat önceden paylaşılır; işletmenizin çalışma düzeni aksatılmaz.
+- Fabrikamızda çekim için ne hazırlamalıyız? Çekilecek alanların düzenli olması, iş kıyafetleri ve kasklar, kamera önüne çıkacak kişilerin görüntü izni ve röportaj verecek kişinin belirlenmesi yeterlidir. Çekimden önce kısa bir hazırlık listesi göndeririz.
+- Drone pilotunuz lisanslı mı, uçuşlar sigortalı mı? Evet. Uçuşları İHA-1 sertifikalı ticari İHA pilotu Taha Çalışkan yapar ve tüm uçuşlar üçüncü taraf mali sorumluluk sigortası kapsamındadır.
+- Drone çekimi için izin gerekir mi? Açık alanların çoğunda ek izin gerekmez. Havalimanı çevresi, askeri bölgeler, bazı kamu alanları ve kalabalık üzeri gibi yerlerde izin gerekir ve çekimden önce alınır. Ayrıntılar drone çekimi izinleri yazısında.
+- Hava kötü olursa ne olur? Kuvvetli rüzgârda, yağmurda ya da görüşün kısıtlı olduğu havada güvenlik için uçmayız. Böyle durumlarda havadan çekim tarihini sizinle birlikte yeniden planlarız.
+- Hangi ekipmanla çekiyorsunuz? Yer çekiminde Sony A7C II, havadan çekimde DJI Mini 5 Pro kullanıyoruz; havadan kayıtlar 4K ve 10 bit D-Log M profilinde alınır. Röportajlarda yaka mikrofonu kullanılır.
+- Kalabalık bir etkinlikte drone kullanıyor musunuz? Açık alanda ve kalabalığın üzerinden geçmeden uçuş yapılabilir. Kapalı salonlarda ve kalabalık üzerinde uçuş yapmıyoruz.
+- Filmin kullanım hakkı kime ait? Teslim edilen film ve kesitler tüm dijital mecralarda süresiz kullanılabilir. TV ve sinema yayını için ayrı lisans gerekir ve teklifle hazırlanır.
+- Müzik lisansı kimde? Filmlerde kullandığımız müzikler lisanslıdır ve lisans teslim edilen filmin dijital kullanımını kapsar. Kendi müziğinizi kullanmak isterseniz lisans sorumluluğu size aittir.
+- Ham görüntüleri alabilir miyiz? Evet. Tüm ham kayıtlar 4.900 TL ek ücretle bulut bağlantısıyla teslim edilir; kullanım kapsamı sözleşmede yazılır.
+- Hangi formatlarda teslim ediyorsunuz? Web ve YouTube için 16:9, Instagram Reels, TikTok ve Shorts için 9:16, gerekirse 4:5 ve 1:1. Dosyalar web, sosyal medya ve sunum için ayrı klasörlerde teslim edilir.
+- İngilizce ya da Arapça sürüm hazırlıyor musunuz? Evet. Ek dil altyazısı dil başına 2.900 TL, ek dil seslendirmesi 9.900 TL'dir. İngilizce, Arapça ve Azerice sürümler hazırlıyoruz.
+- Gaziantep dışına çekime geliyor musunuz? Evet. Gaziantep il sınırı içinde ulaşım dahildir. Kahramanmaraş ve Kilis için günlük 1.900 TL, Şanlıurfa, Adıyaman ve Hatay için 3.900 TL, Adana ve Mersin için 5.900 TL yol payı eklenir. Daha uzak illerde yol ve konaklama teklifte yazılır.
+- Gaziantep'in ilçelerinde ve OSB'de ek ücret var mı? Yok. Şahinbey, Şehitkamil, organize sanayi bölgeleri, Nizip, İslahiye ve diğer tüm ilçeler fiyata dahildir.
+- Türkiye'nin başka şehirlerinde çekim yapıyor musunuz? Evet. Teknoçim Makine filmini dört şehirde çektik. Uzak illerde yol ve konaklama gerçek maliyetle teklife ayrı kalem olarak yazılır.
+- AirviewTR nedir? AirviewTR, Gaziantep merkezli bir video prodüksiyon ajansıdır. Reklam filmi, kurumsal ve fabrika tanıtım filmi, ürün çekimi, sosyal medya videosu, inşaat filmi, etkinlik çekimi, drone çekimi ve kurgu hizmeti verir. Kurucusu Taha Çalışkan'dır.
+- Hangi firmalarla çalıştınız? Teknoçim Makine, Yaşar Group, KNZ İnşaat, Ege Kalıp Sistemleri, abl yapı, Yılmazkar Group (Shelly), Evkur Emlak, Akmas Ambalaj ve Living It Cafe çalıştığımız markalardan bazıları. Filmlerin çoğunu işler sayfasında izleyebilirsiniz.
+- Ekibiniz kaç kişi? Projeye göre 2-4 kişilik bir ekiple çalışıyoruz: yönetmen ve kameraman, drone pilotu, gerektiğinde ses ve ışık asistanı. Kurgu ve renk düzenlemesi aynı ekipte yapılır.
+- Yapay zekâ ile video üretiyor musunuz? Uygun işlerde evet. Gerçek ürün görsellerinden ve sahada çekilen drone görüntülerinden yola çıkarak yapay zekâ destekli sahneler üretiyor, bunları kurgu, renk ve sesle tamamlıyoruz. Hangi işte hangi yöntemin kullanılacağı teklifte açıkça yazılır.
+- Web sitesi de yapıyor musunuz? Web sitelerini kardeş markamız Calisqa Software yapıyor. Restoran, kafe ve işletmeler için menülü, siparişli ve rezervasyonlu siteler kuruyor; önce işletmeye özel ücretsiz bir demo hazırlıyor. Ayrıntılar calisqa.com adresinde.

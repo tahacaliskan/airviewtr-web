@@ -3,7 +3,8 @@
   const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const WA = '905013466560';
-  const W = window.WORKS || [];
+  const wd = document.getElementById('works-data');
+  const W = wd ? JSON.parse(wd.textContent) : (window.WORKS || []);
   const byId = Object.fromEntries(W.map(w => [w.id, w]));
 
   const burger = $('.burger');
@@ -37,24 +38,44 @@
   const qk = new URLSearchParams(location.search).get('k');
   if (fb.length && qk && fb.some(b => b.dataset.filter === qk)) apply(qk);
 
-  /* lightbox */
+  /* lightbox: cards are real links to case pages; the lightbox is progressive enhancement */
   const lb = $('.lb'); let list = [], idx = 0, back = null;
+  const caseHref = {};
+  $$('.work[data-work]').forEach(c => { const h = c.getAttribute('href') || ''; if (h.startsWith('/isler/')) caseHref[c.dataset.work] = h; });
   const show = i => {
     idx = (i + list.length) % list.length; const w = byId[list[idx]], v = $('video', lb);
     lb.classList.toggle('w', w.ar === 'w');
-    v.poster = 'media/' + w.id + '.webp'; v.src = 'media/' + w.id + '.mp4'; v.play().catch(() => {});
-    $('.cl', lb).textContent = w.client + ' × AirviewTR'; $('h2', lb).textContent = w.title; $('.ds', lb).textContent = w.desc; $('.pr', lb).textContent = (idx + 1) + ' / ' + list.length;
+    v.poster = '/media/' + w.id + '.webp'; v.src = '/media/' + w.id + '.mp4'; v.play().catch(() => {});
+    $('.cl', lb).textContent = w.client === 'AirviewTR' ? 'AirviewTR' : w.client + ' × AirviewTR'; $('h2', lb).textContent = w.title; $('.ds', lb).textContent = w.desc; $('.pr', lb).textContent = (idx + 1) + ' / ' + list.length;
+    const more = $('[data-more]', lb); if (more) { const h = caseHref[w.id]; more.hidden = !h; if (h) more.href = h; }
   };
-  const open = id => { list = $$('.work:not(.hide)').map(c => c.dataset.work).filter((x, i, a) => a.indexOf(x) === i); if (!list.includes(id)) list = [id]; back = document.activeElement; lb.classList.add('open'); lb.setAttribute('aria-hidden', 'false'); document.body.style.overflow = 'hidden'; show(list.indexOf(id)); $('.x', lb).focus(); };
+  const open = id => { list = $$('.work:not(.hide)').map(c => c.dataset.work).filter((x, i, a) => a.indexOf(x) === i && byId[x]); if (!list.includes(id)) list = [id]; back = document.activeElement; lb.classList.add('open'); lb.setAttribute('aria-hidden', 'false'); document.body.style.overflow = 'hidden'; show(list.indexOf(id)); $('.x', lb).focus(); };
   const close = () => { if (!lb || !lb.classList.contains('open')) return; const v = $('video', lb); v.pause(); v.removeAttribute('src'); v.load(); lb.classList.remove('open'); lb.setAttribute('aria-hidden', 'true'); document.body.style.overflow = ''; back && back.focus(); };
-  $$('.work[data-work]').forEach(c => c.addEventListener('click', () => open(c.dataset.work)));
   if (lb) {
+    $$('.work[data-work]').forEach(c => c.addEventListener('click', e => { if (!byId[c.dataset.work] || e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) return; e.preventDefault(); open(c.dataset.work); }));
     $('.x', lb).addEventListener('click', close);
     $('[data-prev]', lb).addEventListener('click', () => show(idx - 1));
     $('[data-next]', lb).addEventListener('click', () => show(idx + 1));
     lb.addEventListener('click', e => { if (e.target === lb) close(); });
     document.addEventListener('keydown', e => { if (!lb.classList.contains('open')) return; if (e.key === 'Escape') close(); if (e.key === 'ArrowRight') show(idx + 1); if (e.key === 'ArrowLeft') show(idx - 1); });
     const h = location.hash.slice(1); if (byId[h]) open(h);
+  }
+
+  /* pricing tabs (+ deep link /fiyatlar#service-key) */
+  const tabs = $$('.ptabs [role=tab]');
+  if (tabs.length) {
+    const sel = k => { tabs.forEach(t => { const on = t.getAttribute('aria-controls') === k; t.setAttribute('aria-selected', String(on)); t.tabIndex = on ? 0 : -1; const p = document.getElementById(t.getAttribute('aria-controls')); if (p) p.hidden = !on; }); };
+    tabs.forEach((t, i) => { t.addEventListener('click', () => { sel(t.getAttribute('aria-controls')); history.replaceState(null, '', '#' + t.getAttribute('aria-controls')); });
+      t.addEventListener('keydown', e => { const d = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0; if (!d) return; const n = tabs[(i + d + tabs.length) % tabs.length]; n.focus(); n.click(); }); });
+    const h = location.hash.slice(1); if (h && tabs.some(t => t.getAttribute('aria-controls') === h)) { sel(h); setTimeout(() => $('.ptabs').scrollIntoView({ block: 'start' }), 60); }
+  }
+
+  /* article table of contents: highlight current section */
+  const toc = $$('.toc a');
+  if (toc.length && 'IntersectionObserver' in window) {
+    const map = new Map(toc.map(a => [decodeURIComponent(a.hash.slice(1)), a]));
+    const tio = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { toc.forEach(a => a.classList.remove('on')); const a = map.get(e.target.id); a && a.classList.add('on'); } }), { rootMargin: '0px 0px -70% 0px' });
+    map.forEach((a, id) => { const t = document.getElementById(id); t && tio.observe(t); });
   }
 
   /* photo preview */

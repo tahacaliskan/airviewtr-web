@@ -45,6 +45,7 @@
 /sektorler/insaat/ /sektorler/insaat-mimari 301
 /hizmetler/drone /hizmetler/drone-cekimi 301
 /hizmetler/drone/ /hizmetler/drone-cekimi 301
+/paketler /fiyatlar 301
 /index.html / 301
 /tr / 301
 /tr/* /:splat 301

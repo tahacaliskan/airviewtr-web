@@ -58,9 +58,13 @@
     $('[data-next]', lb).addEventListener('click', () => show(idx + 1));
     lb.addEventListener('click', e => { if (e.target === lb) close(); });
     document.addEventListener('keydown', e => { if (!lb.classList.contains('open')) return; if (e.key === 'Escape') close(); if (e.key === 'ArrowRight') show(idx + 1); if (e.key === 'ArrowLeft') show(idx - 1); });
+    $$('[data-open-work]').forEach(b => b.addEventListener('click', e => { if (!byId[b.dataset.openWork] || e.metaKey || e.ctrlKey) return; e.preventDefault(); open(b.dataset.openWork); const v = $('video', lb); v.muted = false; }));
     const h = location.hash.slice(1); if (byId[h]) open(h);
   }
 
+  /* paketler: /fiyatlar#hizmet-anahtari ilgili bloğu açar */
+  const openSvc = () => { const h = location.hash.slice(1); const d = h && document.getElementById(h); if (d && d.tagName === 'DETAILS') { d.open = true; setTimeout(() => d.scrollIntoView({ block: 'start' }), 60); } };
+  openSvc(); window.addEventListener('hashchange', openSvc);
   /* pricing tabs (+ deep link /fiyatlar#service-key) */
   const tabs = $$('.ptabs [role=tab]');
   if (tabs.length) {

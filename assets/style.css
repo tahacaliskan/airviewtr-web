@@ -638,3 +638,48 @@ section[id^="g-"]{scroll-margin-top:130px}
 @media (max-width:1060px){.pneeds{grid-template-columns:1fr 1fr}.excols{grid-template-columns:1fr}}
 @media (max-width:640px){.pneeds{grid-template-columns:1fr}.psvc summary{grid-template-columns:1fr 24px}.psvc summary .fr{grid-column:1;grid-row:2;font-size:16px}.psvc summary i{grid-row:1/3;grid-column:2}.pgnav{top:64px}}
 [data-more][hidden]{display:none!important}
+
+/* ---------- Derinlik katmanı (Ekim 2026): zeminden ayrılan kartlar, bantlı bölümler, daha net kontrast ---------- */
+:root{
+  --paper:#EFECE4; --band:#F8F6F0; --card:#FDFCF8; --mute:#57544B; --fog:#8B887E;
+  --line:rgba(13,13,11,.09); --line-2:rgba(13,13,11,.16);
+  --sh1:0 1px 1px rgba(30,24,14,.04),0 2px 6px rgba(30,24,14,.05),0 10px 28px -8px rgba(30,24,14,.10);
+  --sh2:0 2px 4px rgba(30,24,14,.05),0 14px 34px -10px rgba(30,24,14,.20),0 30px 60px -30px rgba(30,24,14,.22);
+  --r:18px;
+}
+body{background:var(--paper)}
+section.band{background:var(--band);border-block:1px solid var(--line);padding:96px 0;position:relative}
+section.band+section.tight:not(.band):not(.dark){padding-top:96px}
+section.tight.band{padding-top:96px}
+.lead{color:var(--mute)}
+.sec-head .lead{color:var(--mute)}
+.sec-head{margin-bottom:48px;padding-bottom:22px;border-bottom:1px solid var(--line)}
+.sec-head .tc,.phero .tc{background:var(--card);border:1px solid var(--line);box-shadow:var(--sh1);border-radius:999px;padding:7px 14px 7px 12px;color:var(--ink-2)}
+.dark .sec-head{border-color:var(--dark-line)}
+.dark .sec-head .tc{background:var(--dark-2);border-color:var(--dark-line);color:var(--fog);box-shadow:none}
+
+/* raised surfaces */
+.mcard,.cardl,.scard,.plan,.qa,.kf,.quote,.logos .lg,.founder,.tbl,.guar>div,.addons,.kit>div,.wiz .card,.wiz .sum,.contact .form,.side>div,.person,.box,.tldr,.toc,.author,.facts2,.pgnav,.meta-row{background:var(--card);border:1px solid var(--line);box-shadow:var(--sh1);border-radius:var(--r)}
+.dark .mcard,.dark .cardl,.dark .quote{background:var(--dark-2);border-color:var(--dark-line);box-shadow:0 20px 40px -24px rgba(0,0,0,.6)}
+a.mcard,a.cardl,.scard,.plan,.quote,.logos .lg{transition:transform .5s var(--ease),box-shadow .5s var(--ease),border-color .4s}
+a.mcard:hover,a.cardl:hover,.scard:hover,.plan:hover,.logos .lg:hover{transform:translateY(-4px);box-shadow:var(--sh2);border-color:var(--line-2)}
+.plan.hot{box-shadow:var(--sh2);border-color:rgba(255,84,54,.45)}
+.answer .qa{border-left:4px solid var(--rec)}
+.meta-row{padding:10px 14px;display:inline-flex}
+.rows a{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--sh1);padding-inline:18px;margin-bottom:10px;transition:transform .5s var(--ease),box-shadow .5s var(--ease)}
+.rows a:hover{transform:translateX(4px);box-shadow:var(--sh2)}
+.faq details{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--sh1);padding:0 20px;margin-bottom:10px}
+.faq details[open]{box-shadow:var(--sh2);border-color:var(--line-2)}
+.dark .faq details{background:var(--dark-2);border-color:var(--dark-line);box-shadow:none}
+.work .fr{box-shadow:var(--sh1);border:1px solid rgba(13,13,11,.08)}
+.work:hover .fr{box-shadow:var(--sh2)}
+.gal a{border-radius:14px;overflow:hidden;box-shadow:var(--sh1)}
+.mcard .si,.scard .si{box-shadow:0 6px 14px -6px rgba(232,64,31,.55)}
+.chipnav a{background:var(--card);box-shadow:var(--sh1)}
+.lstrip{box-shadow:inset 0 1px 0 var(--line),inset 0 -1px 0 var(--line)}
+.phero{background:linear-gradient(180deg,var(--band),var(--paper));border-bottom:1px solid var(--line)}
+.ptabs{background:var(--card);border:1px solid var(--line);box-shadow:var(--sh1);border-radius:999px;padding:6px}
+@media (prefers-reduced-motion:reduce){a.mcard:hover,a.cardl:hover,.scard:hover,.plan:hover,.rows a:hover{transform:none}}
+/* language switch */
+.nav .lang{display:inline-grid;place-items:center;height:36px;min-width:42px;padding:0 10px;border-radius:999px;border:1px solid var(--line-2);background:var(--card);font-family:var(--mono);font-size:12px;letter-spacing:.08em;font-weight:500;color:var(--ink-2);box-shadow:var(--sh1);transition:background .3s,color .3s}
+.nav .lang:hover{background:var(--ink);color:var(--paper)}

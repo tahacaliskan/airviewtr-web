@@ -683,3 +683,10 @@ a.mcard:hover,a.cardl:hover,.scard:hover,.plan:hover,.logos .lg:hover{transform:
 /* language switch */
 .nav .lang{display:inline-grid;place-items:center;height:36px;min-width:42px;padding:0 10px;border-radius:999px;border:1px solid var(--line-2);background:var(--card);font-family:var(--mono);font-size:12px;letter-spacing:.08em;font-weight:500;color:var(--ink-2);box-shadow:var(--sh1);transition:background .3s,color .3s}
 .nav .lang:hover{background:var(--ink);color:var(--paper)}
+/* language switch v2: larger */
+.nav .lang{display:inline-flex;align-items:center;gap:8px;height:46px;min-width:auto;padding:0 18px 0 14px;font-family:var(--wide);font-size:15px;letter-spacing:0;font-weight:700;border:1.5px solid var(--ink);background:var(--card);color:var(--ink);box-shadow:var(--sh1)}
+.nav .lang i{font-size:20px}
+.nav .lang b{font-weight:800;letter-spacing:.04em}
+.nav .lang span{font-weight:500;color:var(--mute)}
+.nav .lang:hover span{color:inherit}
+@media (max-width:640px){.nav .lang{height:42px;padding:0 12px}.nav .lang span{display:none}}

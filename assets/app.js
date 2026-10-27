@@ -62,17 +62,32 @@
     const h = location.hash.slice(1); if (byId[h]) open(h);
   }
 
-  /* paketler: /fiyatlar#hizmet-anahtari ilgili bloğu açar */
-  const openSvc = () => { const h = location.hash.slice(1); const d = h && document.getElementById(h); if (d && d.tagName === 'DETAILS') { d.open = true; setTimeout(() => d.scrollIntoView({ block: 'start' }), 60); } };
-  openSvc(); window.addEventListener('hashchange', openSvc);
-  /* pricing tabs (+ deep link /fiyatlar#service-key) */
-  const tabs = $$('.ptabs [role=tab]');
-  if (tabs.length) {
-    const sel = k => { tabs.forEach(t => { const on = t.getAttribute('aria-controls') === k; t.setAttribute('aria-selected', String(on)); t.tabIndex = on ? 0 : -1; const p = document.getElementById(t.getAttribute('aria-controls')); if (p) p.hidden = !on; }); };
-    tabs.forEach((t, i) => { t.addEventListener('click', () => { sel(t.getAttribute('aria-controls')); history.replaceState(null, '', '#' + t.getAttribute('aria-controls')); });
-      t.addEventListener('keydown', e => { const d = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0; if (!d) return; const n = tabs[(i + d + tabs.length) % tabs.length]; n.focus(); n.click(); }); });
-    const h = location.hash.slice(1); if (h && tabs.some(t => t.getAttribute('aria-controls') === h)) { sel(h); setTimeout(() => $('.ptabs').scrollIntoView({ block: 'start' }), 60); }
-  }
+  /* tabs: one panel at a time; a #hash link opens the panel that holds its target (e.g. /fiyatlar#drone-cekimi) */
+  const tsel = (ts, id) => $$('[role=tab]', ts).forEach(t => { const on = t.getAttribute('aria-controls') === id; t.setAttribute('aria-selected', String(on)); t.tabIndex = on ? 0 : -1; const p = document.getElementById(t.getAttribute('aria-controls')); if (p) p.hidden = !on; });
+  $$('[data-tabs]').forEach(ts => {
+    const tb = $$('[role=tab]', ts); if (!tb.length) return;
+    ts.classList.add('js'); tsel(ts, tb[0].getAttribute('aria-controls'));
+    tb.forEach((t, i) => {
+      t.addEventListener('click', () => { tsel(ts, t.getAttribute('aria-controls')); if (t.getBoundingClientRect().top < 80) ts.scrollIntoView({ block: 'start', behavior: reduce ? 'auto' : 'smooth' }); });
+      t.addEventListener('keydown', e => { const d = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0; if (!d) return; e.preventDefault(); const n = tb[(i + d + tb.length) % tb.length]; n.focus(); n.click(); });
+    });
+  });
+  const follow = () => {
+    const h = decodeURIComponent(location.hash.slice(1)), el = h && document.getElementById(h); if (!el) return;
+    const p = el.closest('[role=tabpanel]'), ts = p && p.closest('[data-tabs]');
+    if (ts) tsel(ts, p.id);
+    if (el.tagName === 'DETAILS') el.open = true;
+    setTimeout(() => (el === p ? ts : el).scrollIntoView({ block: 'start' }), 60);
+  };
+  follow(); window.addEventListener('hashchange', follow);
+
+  /* rails: arrow buttons page through a horizontal row */
+  $$('[data-rail]').forEach(r => {
+    const tr = $('.rail-track', r);
+    const upd = () => { r.classList.toggle('at-start', tr.scrollLeft < 8); r.classList.toggle('at-end', tr.scrollLeft + tr.clientWidth > tr.scrollWidth - 8); };
+    $$('[data-dir]', r).forEach(b => b.addEventListener('click', () => tr.scrollBy({ left: +b.dataset.dir * tr.clientWidth * .8, behavior: reduce ? 'auto' : 'smooth' })));
+    tr.addEventListener('scroll', upd, { passive: true }); addEventListener('resize', upd); upd();
+  });
 
   /* article table of contents: highlight current section */
   const toc = $$('.toc a');

@@ -38,6 +38,17 @@
   const qk = new URLSearchParams(location.search).get('k');
   if (fb.length && qk && fb.some(b => b.dataset.filter === qk)) apply(qk);
 
+  /* long films stream as HLS; hls.js only loads when one is played */
+  let hlsLib = null;
+  const loadHls = () => hlsLib || (hlsLib = new Promise((ok, no) => { const t = document.createElement('script'); t.src = 'https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js'; t.onload = () => ok(window.Hls); t.onerror = no; document.head.appendChild(t); }));
+  const dropHls = v => { if (v._hls) { v._hls.destroy(); v._hls = null; } };
+  const attachHls = (v, url, autoplay) => {
+    dropHls(v);
+    if (!window.MediaSource && !window.ManagedMediaSource || (v.canPlayType('application/vnd.apple.mpegurl') && !window.MediaSource)) { v.src = url; if (autoplay) v.play().catch(() => {}); return; }
+    loadHls().then(H => { if (!H.isSupported()) { v.src = url; return; } const h = new H({ enableWorker: false, capLevelToPlayerSize: false }); v._hls = h; h.loadSource(url); h.attachMedia(v); if (autoplay) h.on(H.Events.MANIFEST_PARSED, () => v.play().catch(() => {})); }).catch(() => { v.src = url; });
+  };
+  $$('video[data-hls]').forEach(v => attachHls(v, v.dataset.hls, false));
+
   /* lightbox: cards are real links to case pages; the lightbox is progressive enhancement */
   const lb = $('.lb'); let list = [], idx = 0, back = null;
   const caseHref = {};
@@ -45,12 +56,12 @@
   const show = i => {
     idx = (i + list.length) % list.length; const w = byId[list[idx]], v = $('video', lb);
     lb.classList.toggle('w', w.ar === 'w');
-    v.poster = '/media/' + w.id + '.webp'; v.src = '/media/' + w.id + '.mp4'; v.play().catch(() => {});
+    v.poster = '/media/' + w.id + '.webp'; dropHls(v); v.removeAttribute('src'); if (w.hls) attachHls(v, '/media/hls/' + w.id + '/index.m3u8', true); else { v.src = '/media/' + w.id + '.mp4'; v.play().catch(() => {}); }
     $('.cl', lb).textContent = w.client === 'AirviewTR' ? 'AirviewTR' : w.client + ' × AirviewTR'; $('h2', lb).textContent = w.title; $('.ds', lb).textContent = w.desc; $('.pr', lb).textContent = (idx + 1) + ' / ' + list.length;
     const more = $('[data-more]', lb); if (more) { const h = caseHref[w.id]; more.hidden = !h; if (h) more.href = h; }
   };
   const open = id => { list = $$('.work:not(.hide)').map(c => c.dataset.work).filter((x, i, a) => a.indexOf(x) === i && byId[x]); if (!list.includes(id)) list = [id]; back = document.activeElement; lb.classList.add('open'); lb.setAttribute('aria-hidden', 'false'); document.body.style.overflow = 'hidden'; show(list.indexOf(id)); $('.x', lb).focus(); };
-  const close = () => { if (!lb || !lb.classList.contains('open')) return; const v = $('video', lb); v.pause(); v.removeAttribute('src'); v.load(); lb.classList.remove('open'); lb.setAttribute('aria-hidden', 'true'); document.body.style.overflow = ''; back && back.focus(); };
+  const close = () => { if (!lb || !lb.classList.contains('open')) return; const v = $('video', lb); v.pause(); dropHls(v); v.removeAttribute('src'); v.load(); lb.classList.remove('open'); lb.setAttribute('aria-hidden', 'true'); document.body.style.overflow = ''; back && back.focus(); };
   if (lb) {
     $$('.work[data-work]').forEach(c => c.addEventListener('click', e => { if (!byId[c.dataset.work] || e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) return; e.preventDefault(); open(c.dataset.work); }));
     $('.x', lb).addEventListener('click', close);

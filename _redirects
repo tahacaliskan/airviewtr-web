@@ -46,10 +46,10 @@
 /hizmetler/drone /hizmetler/drone-cekimi 301
 /hizmetler/drone/ /hizmetler/drone-cekimi 301
 /paketler /fiyatlar 301
-havadan-cekim-seckisi /hizmetler/drone-cekimi 301
-teknocim-makine-uretim-hatti-dikey-videolar /isler/teknocim-makine-fabrika-tanitim-filmi 301
 /en/work/airviewtr-from-the-air /en/work 301
 /en/work/teknocim-makine-cuts-from-the-factory /en/work 301
+/isler/havadan-cekim-seckisi /hizmetler/drone-cekimi 301
+/isler/teknocim-makine-uretim-hatti-dikey-videolar /isler/teknocim-makine-fabrika-tanitim-filmi 301
 /index.html / 301
 /tr / 301
 /tr/* /:splat 301
